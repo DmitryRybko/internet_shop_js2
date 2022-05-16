@@ -1,0 +1,3 @@
+# Project exclude paths
+/internet_shop/dist/
+/internet_shop/node_modules/
